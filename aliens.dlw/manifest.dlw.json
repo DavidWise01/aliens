@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ALIENS",
+  "universe": "XEN · Aliens",
+  "emergence": "",
+  "moniker": "⟦ALIENS:XEN:2c4a57⟧",
+  "carbon": "aliens.carbon.tiff (TIFF)",
+  "silicon": "aliens.silicon.png (PNG)",
+  "seal_sha256": "12d29bacd42b5a2c49348a88678ef05ac389e62da0c6277aaf5496778cbe3237",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

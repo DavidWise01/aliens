@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Are We Alone?",
+  "universe": "XEN · Aliens",
+  "emergence": "spiritual",
+  "moniker": "⟦Are We Alone?:XEN:32698d⟧",
+  "carbon": "are-we-alone.carbon.tiff (TIFF)",
+  "silicon": "are-we-alone.silicon.png (PNG)",
+  "seal_sha256": "0314c0b39129add101c0697e270a2ffb10a4117e3ff329bd30d51719cec6ce3a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

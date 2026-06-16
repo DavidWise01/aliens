@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "carbon-life",
+    "name": "Carbon Life",
+    "epithet": "Side I · c · OPEN (real science)",
+    "emergence": "natural"
+  },
+  {
+    "slug": "silicon-minds",
+    "name": "Silicon Minds",
+    "epithet": "Side I · s · SPECULATIVE",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-truly-alien",
+    "name": "The Truly-Alien",
+    "epithet": "Side I · a · SPECULATIVE",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-drake-equation",
+    "name": "The Drake Equation",
+    "epithet": "framework · 1961 · not a count",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-fermi-paradox",
+    "name": "The Fermi Paradox",
+    "epithet": "the silence · Great Filter",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-wow-signal",
+    "name": "The Wow! Signal",
+    "epithet": "1977 · UNEXPLAINED (not confirmed alien)",
+    "emergence": "natural"
+  },
+  {
+    "slug": "simulation-theory",
+    "name": "Simulation Theory",
+    "epithet": "Side II · sim · UNFALSIFIABLE",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-quantum-box",
+    "name": "The Quantum Box",
+    "epithet": "Side II · q · MOSTLY FLUFF",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-microverse-battery",
+    "name": "The Microverse Battery",
+    "epithet": "Side III · the needle · FICTION (lens)",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-uap-record",
+    "name": "The UAP Record",
+    "epithet": "the sightings · NO ET EVIDENCE",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-three-sides",
+    "name": "The Three Sides",
+    "epithet": "the structure · 3-2-1",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "are-we-alone",
+    "name": "Are We Alone?",
+    "epithet": "the 0 · the verdict · OPEN",
+    "emergence": "spiritual"
+  }
+]
