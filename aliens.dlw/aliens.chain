@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 640
+slug  : aliens
+seal  : 12d29bacd42b5a2c49348a88678ef05ac389e62da0c6277aaf5496778cbe3237
+prev  : 67a8a7a9d796de95e235a91c4b350bbe4b9045ce8a1e11d26fe0783edde266a4
+link  : 3a839c35602a33316ed8457c92e53de8963c1fc8df0ab575b17e82f7f2a84063
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
