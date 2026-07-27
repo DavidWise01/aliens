@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 640
 slug  : aliens
-seal  : 12d29bacd42b5a2c49348a88678ef05ac389e62da0c6277aaf5496778cbe3237
-prev  : b38e9286c4cdb953ffed38a88747c3d1601a9bde29045f30e564e5474721fd72
-link  : 6a46f42e95f98fc80088610feaa585f9bb6c6583657830ddb78a402cbcef9cfe
-head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
+seal  : b3ed71a395125d8dfd365138af3bd40324f1aaf40d96b1aa5853293e5f74645d
+prev  : 585fa71b8362917b2086d5e0b07715b8e7758b985e8ad17f1a39f5c640d45422
+link  : 0d75f49d149cff87445df2e67737c131d1c8189b0bcfd43aacb3884930ada1f9
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
