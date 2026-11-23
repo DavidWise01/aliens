@@ -9,3 +9,7 @@ ALIENS (XEN) — a TIN-FOIL sphere on 'are we alone,' graded for veracity. David
 **Live:** https://davidwise01.github.io/aliens/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/aliens
 
 `.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
+
+## THE ECHO · Anonymous pattern lab
+
+[Open the standalone dead-internet / simulation thought experiment](./dead-internet-simulation.html). The publication deliberately contains no identifying names, source citations, or provenance paths. It examines repeated motifs under common vocabulary, automation, feedback, and simulation interpretations, and explicitly withholds causal attribution where provenance is absent. This is a conceptual demonstration, not empirical evidence of a simulated reality or coordinated online influence.
