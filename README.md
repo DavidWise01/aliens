@@ -13,3 +13,7 @@ ALIENS (XEN) — a TIN-FOIL sphere on 'are we alone,' graded for veracity. David
 ## THE ECHO · Anonymous pattern lab
 
 [Open the standalone dead-internet / simulation thought experiment](./dead-internet-simulation.html). The publication deliberately contains no identifying names, source citations, or provenance paths. It examines repeated motifs under common vocabulary, automation, feedback, and simulation interpretations, and explicitly withholds causal attribution where provenance is absent. This is a conceptual demonstration, not empirical evidence of a simulated reality or coordinated online influence.
+
+## NON-MOOT · NO PROVENANCE
+
+The [dead-internet / simulation thought experiment](./dead-internet-simulation.html) now states the intended origin gate explicitly: without a named original proposer/discoverer and traceable naming decision, **NON-MOOT** means the origin remains unresolved. Do not equate missing provenance with proof of copying, concealment or a simulated universe.
